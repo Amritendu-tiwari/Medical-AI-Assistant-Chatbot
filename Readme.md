@@ -215,4 +215,4 @@ This is a prototype project. For production use, consider:
 ---
 
 **Demo**
-[demo](https://drive.google.com/file/d/1Y1yRebd5jm1csW98LuveFybap47H2IUM/view?usp=sharing)
+[Video](https://drive.google.com/file/d/1Y1yRebd5jm1csW98LuveFybap47H2IUM/view?usp=sharing)
