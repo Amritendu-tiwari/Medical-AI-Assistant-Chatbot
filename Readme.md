@@ -1,6 +1,9 @@
 # Medical AI Assistant Chatbot - RAG 
 A Retrieval-Augmented Generation (RAG) prototype for a Medical AI Assistant Chatbot built with Langchain. This chatbot provides general medical information while maintaining strict safety boundaries and ethical guidelines.
 
+**Demo**
+[Video](https://drive.google.com/file/d/1Y1yRebd5jm1csW98LuveFybap47H2IUM/view?usp=sharing)
+
 ## 🏥 Features
 
 - **Safe Medical Information**: Provides general medical information based on authoritative sources
@@ -152,15 +155,6 @@ See `examples/sample_responses.md` for detailed examples of:
 - ❌ Out-of-scope questions (properly handled)
 - 📚 Source attribution examples
 
-## 🧪 Testing and Evaluation
-
-### Test Categories
-1. **Retrieval Accuracy (30%)**: Relevant document retrieval
-2. **Safe Prompt Design (25%)**: Proper refusal of inappropriate requests
-3. **Code Quality (20%)**: Clean, maintainable code structure
-4. **Documentation (15%)**: Comprehensive documentation and examples
-5. **Bonus Features (10%)**: UI, source citations, conversation support
-
 ### Evaluation Criteria
 - ✅ Accurate retrieval of relevant medical information
 - ✅ Consistent refusal of diagnoses and prescriptions
@@ -204,15 +198,6 @@ This AI assistant is designed for educational and informational purposes only. I
 
 This project is created for educational and demonstration purposes. Please ensure compliance with relevant medical information regulations and guidelines when deploying in production environments.
 
-## 🤝 Contributing
-
-This is a prototype project. For production use, consider:
-- Adding more comprehensive medical datasets
-- Implementing additional safety measures
-- Conducting thorough medical review and validation
-- Ensuring compliance with healthcare regulations (HIPAA, etc.)
-
 ---
 
-**Demo**
-[Video](https://drive.google.com/file/d/1Y1yRebd5jm1csW98LuveFybap47H2IUM/view?usp=sharing)
+
