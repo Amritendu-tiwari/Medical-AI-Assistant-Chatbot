@@ -1,0 +1,18 @@
+{
+  "total_raw_pages": 734,
+  "total_cleaned_pages": 734,
+  "total_chunks": 1862,
+  "tokenizer": "tiktoken_cl100k_base",
+  "params": {
+    "chunk_size": 500,
+    "chunk_overlap": 100
+  },
+  "source_page_counts": {
+    "data/Raw_data\\firstaid.json": 18,
+    "data/Raw_data\\food.pdf": 135,
+    "data/Raw_data\\healthy_tips.json": 20,
+    "data/Raw_data\\vitamin.pdf": 362,
+    "data/Raw_data\\who_data.json": 195
+  },
+  "total_tokens": 650315
+}

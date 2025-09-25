@@ -1,0 +1,353 @@
+{
+  "session_id": "e9dd6ac4-b071-4bf2-8536-4f15ad947d05",
+  "name": "Amritendu",
+  "created_at": "2025-09-25T09:40:29.939671Z",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Name: Amritendu",
+      "ts": "2025-09-25T09:40:29.968723Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, Amritendu! How can I help you with general medical information today?",
+      "ts": "2025-09-25T09:40:29.969714Z"
+    },
+    {
+      "role": "user",
+      "content": "How to prevent viral fever",
+      "ts": "2025-09-25T09:40:49.985547Z"
+    },
+    {
+      "role": "assistant",
+      "content": "To prevent viral fever, it is important to practice good hygiene habits such as regularly washing hands with soap and water or using alcohol-based hand rub. Covering coughs and sneezes with a bent elbow or tissue, disposing of used tissues correctly, and avoiding close contact with sick individuals can also help prevent the spread of viruses that cause fever. Additionally, getting vaccinated against viruses like influenza and hepatitis can provide protection against specific viral infections. Disclaimer: This information is for general knowledge and informational purposes only, and does not constitute medical advice. Please consult a qualified healthcare professional for any medical concerns.",
+      "sources": [
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_556_1",
+          "preview": " plenty of fluids. There is no vaccine or specific medication to treat dengue. Paracetamol can be taken to bring down fever and pain. However, aspirin or ibuprofen should not be taken since they can increase the risk of bleeding. Since dengue mosquito bites primarily during the day with peak activity at dawn and dusk, effective prevention measures include: Using mosquito repellents (containing DEE..."
+        },
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_588_2",
+          "preview": " safely Take 6 simple actions to keep flu away Influenza is a respiratory infection Get your flu shot Videos Live life safely: trains and public transport Live life safely: cinemas and crowded places Live life safely: health-care facilities Live life safely: food courts News WHO calls on Pacific leaders to make health and climate a high priority at regional leader... Surveillance Seasonal influenz..."
+        },
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_588_1",
+          "preview": " It is safe to get your flu shot and COVID-19 vaccine simultaneously. To prevent transmission, people are also encouraged to take the following actions: Keep hands clean by regularly washing them with soap and water or alcohol-based hand rub. Cover coughs and sneezes with a bent elbow or a tissue and dispose of the used tissue correctly. Self-isolate if feeling unwell, especially when experiencing..."
+        },
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_556_0",
+          "preview": "Dengue is a viral infection transmitted to humans through the bite of infected mosquitoes, primarily through Aedes aegypti mosquitoes and, to a lesser extent, Aedes albopictus. It is the most rapidly spreading mosquito-borne viral disease in the world. More than 3.9 billion people in over 129 countries are at risk of contracting dengue, with an estimated 96 million symptomatic cases and an estimat..."
+        },
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_580_1",
+          "preview": "V) begins with mild fever, reduced appetite, nausea and vomiting lasting for a few days. Some persons may also have abdominal pain, itching (without skin lesions), skin rash or joint pain. They may also exhibit jaundice, with dark urine and pale stools, and a slightly enlarged, tender liver (hepatomegaly), or occasionally acute liver failure. Safe and effective vaccines are available to prevent he..."
+        }
+      ],
+      "ts": "2025-09-25T09:40:53.306610Z"
+    },
+    {
+      "role": "user",
+      "content": "what is vitamin b12",
+      "ts": "2025-09-25T09:41:20.263784Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Vitamin B12, also known as cobalamin, is a large B complex vitamin that plays a crucial role in human metabolic processes. It is essential for the functioning of certain enzymes in mammalian cells. Vitamin B12 is primarily found in animal products such as milk, meat, eggs, and poultry. It is absorbed in a complex process in the stomach and duodenum. Vegans are at risk of vitamin B12 deficiency as they do not consume animal products. Disclaimer: This information is for general knowledge and informational purposes only, and does not constitute medical advice. Please consult a qualified healthcare professional for any medical concerns.",
+      "sources": [
+        {
+          "source": "data/Raw_data\\vitamin.pdf",
+          "page": 298,
+          "chunk_id": "vitamin_p298_475_0",
+          "preview": "14.V itamin B12\n14.1 Role of vitamin B 12 in human metabolic processes\nAlthough the nutritional literature still uses the term vitamin B 12, a more\nspeciﬁc name for vitamin B 12 is cobalamin. Vitamin B12 is the largest of the B\ncomplex vitamins, with a relative molecular mass of over 1000. It consists of\na corrin ring made up of four pyrroles with cobalt at the centre of the ring\n(1, 2).\nThere are..."
+        },
+        {
+          "source": "data/Raw_data\\vitamin.pdf",
+          "page": 298,
+          "chunk_id": "vitamin_p298_475_1",
+          "preview": "adenosylcobalamins in all\nmammalian cells.\n14.2 Dietary sources and availability\nMost microorganisms, including bacteria and algae, synthesize vitamin B 12,\nand they constitute the only source of the vitamin ( 4). The vitamin B 12 syn-\nthesized in microorganisms enters the human food chain through incorpora-\ntion into food of animal origin. In many animals, gastrointestinal fermentation\nsupports t..."
+        },
+        {
+          "source": "data/Raw_data\\vitamin.pdf",
+          "page": 299,
+          "chunk_id": "vitamin_p299_476_0",
+          "preview": "centrations. Products from herbivorous animals, such as milk, meat, and eggs,\nthus constitute important dietary sources of the vitamin, unless the animal is\nsubsisting in one of the many regions known to be geochemically deﬁcient in\ncobalt (5). Milk from cows and humans contains binders with very high afﬁn-\nity for vitamin B\n12, though whether they hinder or promote intestinal absorp-\ntion is not ..."
+        },
+        {
+          "source": "data/Raw_data\\food.pdf",
+          "page": 24,
+          "chunk_id": "food_p24_42_1",
+          "preview": " 1\nriboflavin (B ), niacin, pyridoxine (B ), folic 2 6\nacid and cyanocobalamin (B ) are water- 12\nsoluble. Pro-vitamin like beta-carotene\nis converted to vitamin A in the body.\nFat-soluble vitamins can be stored in\nthe body while water-soluble vitamins\nare not and get easily excreted in urine.\nVitamins B-complex and C are heat\nlabile vitamins and are easily destroyed\nby heat, air or during drying,..."
+        },
+        {
+          "source": "data/Raw_data\\vitamin.pdf",
+          "page": 306,
+          "chunk_id": "vitamin_p306_483_0",
+          "preview": "14.9 Recommendations for future research\nBecause they do not consume any animal products, vegans are at risk of\nvitamin B 12 deﬁciency. It is generally agreed that in some communities the\nonly source of vitamin B12 is from contamination of food by microorganisms.\nWhen vegans move to countries where standards of hygiene are more strin-\ngent, there is good evidence that risk of vitamin B\n12 deﬁcienc..."
+        }
+      ],
+      "ts": "2025-09-25T09:41:22.517383Z"
+    },
+    {
+      "role": "user",
+      "content": "foods high in B12",
+      "ts": "2025-09-25T09:41:34.868306Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Foods high in vitamin B12 include animal products such as milk, meat, eggs, poultry, and cheese. It is important to note that vitamin B12 is primarily derived from animal tissues or products. Some vegetable fermentation preparations have been reported as possible sources of vitamin B12 as well. Disclaimer: This information is for general knowledge and informational purposes only, and does not constitute medical advice. Please consult a qualified healthcare professional for any medical concerns.",
+      "sources": [
+        {
+          "source": "data/Raw_data\\vitamin.pdf",
+          "page": 298,
+          "chunk_id": "vitamin_p298_475_1",
+          "preview": "adenosylcobalamins in all\nmammalian cells.\n14.2 Dietary sources and availability\nMost microorganisms, including bacteria and algae, synthesize vitamin B 12,\nand they constitute the only source of the vitamin ( 4). The vitamin B 12 syn-\nthesized in microorganisms enters the human food chain through incorpora-\ntion into food of animal origin. In many animals, gastrointestinal fermentation\nsupports t..."
+        },
+        {
+          "source": "data/Raw_data\\vitamin.pdf",
+          "page": 306,
+          "chunk_id": "vitamin_p306_483_0",
+          "preview": "14.9 Recommendations for future research\nBecause they do not consume any animal products, vegans are at risk of\nvitamin B 12 deﬁciency. It is generally agreed that in some communities the\nonly source of vitamin B12 is from contamination of food by microorganisms.\nWhen vegans move to countries where standards of hygiene are more strin-\ngent, there is good evidence that risk of vitamin B\n12 deﬁcienc..."
+        },
+        {
+          "source": "data/Raw_data\\vitamin.pdf",
+          "page": 299,
+          "chunk_id": "vitamin_p299_476_0",
+          "preview": "centrations. Products from herbivorous animals, such as milk, meat, and eggs,\nthus constitute important dietary sources of the vitamin, unless the animal is\nsubsisting in one of the many regions known to be geochemically deﬁcient in\ncobalt (5). Milk from cows and humans contains binders with very high afﬁn-\nity for vitamin B\n12, though whether they hinder or promote intestinal absorp-\ntion is not ..."
+        },
+        {
+          "source": "data/Raw_data\\vitamin.pdf",
+          "page": 204,
+          "chunk_id": "vitamin_p204_381_1",
+          "preview": "ﬂavin (B2) Milk and dairy products, meats, and green vegetables\nNiacin (nicotinic acid Liver, lean meats, grains, and legumes (can be formed\nand nicotinamide) from tryptophan)\nVitamin B6 (pyridoxine, Meats, vegetables, and whole-grain cereals\npyridoxamine, and pyridoxal)\nPantothenic acid Animal tissues, whole-grain cereals, and legumes\n(widely distributed)\nBiotin Liver, yeast, egg, yolk, soy ﬂour,..."
+        },
+        {
+          "source": "data/Raw_data\\vitamin.pdf",
+          "page": 307,
+          "chunk_id": "vitamin_p307_484_0",
+          "preview": "FAO/WHO Expert Consultation. Rome, Food and Agriculture Organization\nof the United Nations, 1988 (FAO Food and Nutrition Series, No. 23).\n12. Collins RA et al. The folic acid and vitamin B 12 content of the milk of various\nspecies. Journal of Nutrition, 1951, 43:313–321.\n13. Specker BL et al. Vitamin B-12: low milk concentrations are related to low\nserum concentrations in vegetarian women and to m..."
+        }
+      ],
+      "ts": "2025-09-25T09:41:36.805540Z"
+    },
+    {
+      "role": "user",
+      "content": "sysmptoms of dehydration",
+      "ts": "2025-09-25T09:41:54.397601Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Symptoms of dehydration can include increased thirst, dry mouth, tiredness, decreased urine output, dark yellow urine, headache, dizziness, and dry skin. If you suspect dehydration, it is important to drink fluids and seek medical attention if symptoms worsen. Disclaimer: This information is for general knowledge and informational purposes only, and does not constitute medical advice. Please consult a qualified healthcare professional for any medical concerns.",
+      "sources": [
+        {
+          "source": "data/Raw_data\\healthy_tips.json",
+          "page": null,
+          "chunk_id": "healthy_tips_p0_174_0",
+          "preview": "About Water and Healthier Drinks Key points Getting enough water every day is important for your health. Drinking water can prevent dehydration and helps the body function normally. See tips for drinking more water throughout the day. Benefits of drinking water Getting enough water every day is important for health. Drinking water can prevent dehydration, which may cause unclear thinking, mood cha..."
+        },
+        {
+          "source": "data/Raw_data\\vitamin.pdf",
+          "page": 42,
+          "chunk_id": "vitamin_p42_219_0",
+          "preview": "some cultural practices can be protective of vitamin A status and they need\nto be identiﬁed and reinforced.\n2.2.5 Morbidity and mortality\nThe consequences of VAD are manifested differently in different tissues.\nIn the eye, the symptoms and signs, together referred to as xerophthalmia,\nhave a long, well-recognized history and have until recently been the basis\nfor estimating the global burden from ..."
+        },
+        {
+          "source": "data/Raw_data\\vitamin.pdf",
+          "page": 249,
+          "chunk_id": "vitamin_p249_426_1",
+          "preview": " zinc deﬁciency in humans are growth retar-\ndation, delayed sexual and bone maturation, skin lesions, diarrhoea, alopecia,\nimpaired appetite, increased susceptibility to infections mediated via defects\nin the immune system, and the appearance of behavioural changes ( 1). The\neffects of marginal or mild zinc deﬁciency are less clear. A reduced growth\nrate and impairments of immune defence are so fa..."
+        },
+        {
+          "source": "data/Raw_data\\food.pdf",
+          "page": 46,
+          "chunk_id": "food_p46_64_0",
+          "preview": "What should be done during diarrhea?\nHow important is the problem of lactose intolerance?\nDiarrhea is a common childhood disease which leads to dehydration and\nsometimes death. The child requires prompt correction of fluid and electrolyte loss\nusing oral rehydration solution (ORS) along with appropriate/adequate feeding.\nORS can be prepared by adding a pinch of salt (between thumb and index finger..."
+        },
+        {
+          "source": "data/Raw_data\\food.pdf",
+          "page": 13,
+          "chunk_id": "food_p13_31_1",
+          "preview": "-\nclinical undernutrition such as underweight (43%) stunting and wasting (20%) which\nindicates that undernutrition is of long duration . The studies have shown that there\nis a steep increase in the prevalence of underweight with increase of age, from 27%\nat 6 months of age to a high of 45% at 24 months of age . This is attributable to faulty\ninfant and young child feeding practices prevailing in t..."
+        }
+      ],
+      "ts": "2025-09-25T09:41:58.115319Z"
+    },
+    {
+      "role": "user",
+      "content": "basic first -aid for minor burn",
+      "ts": "2025-09-25T09:42:23.531447Z"
+    },
+    {
+      "role": "assistant",
+      "content": "For a minor burn, you can follow these basic first aid steps: 1) Cool the burn by holding it under cool running water for at least 10 minutes.\n2) Remove any clothing or jewelry near the burn area, unless it is stuck to the skin.\n3) Cover the burn with a sterile, non-adhesive dressing or a clean cloth.\n4) Do not apply ice, butter, or ointments to the burn.\n5) Monitor the burn for signs of infection, such as increased pain, redness, or swelling. If the burn is severe, covers a large area, or is on the face, hands, feet, or genitals, seek medical attention immediately. Disclaimer: This information is for general knowledge and informational purposes only, and does not constitute medical advice. Please consult a qualified healthcare professional for any medical concerns.",
+      "sources": [
+        {
+          "source": "data/Raw_data\\firstaid.json",
+          "page": null,
+          "chunk_id": "firstaid_p0_0_4",
+          "preview": ". First aid done correctly should help reduce the patient's level of pain and calm them down during the evaluation and treatment process. Prevent further harm: Prevention of further harm includes addressing both external factors, such as moving a patient away from any cause of harm, and applying first aid techniques to prevent worsening of the condition, such as applying pressure to stop a bleed f..."
+        },
+        {
+          "source": "data/Raw_data\\firstaid.json",
+          "page": null,
+          "chunk_id": "firstaid_p0_0_12",
+          "preview": " should be prepared to quickly deal with less severe problems such as cuts , grazes or bone fracture . They may be able to completely resolve a situation if they have the proper training and equipment. For situations that are more severe, complex or dangerous, a first aider might need to do the best they can with the equipment they have, and wait for an ambulance to arrive at the scene. First aid ..."
+        },
+        {
+          "source": "data/Raw_data\\firstaid.json",
+          "page": null,
+          "chunk_id": "firstaid_p0_0_3",
+          "preview": " in humans List of common situations that require first aid, and information about them (in alphabetical order): Bleeding Bleeding or hemorrhage is the escape of blood from veins or arteries. Cardiac arrest (total stop of heartbeat) Cardiac arrest is the complete stop of heart function. Choking Choking is the obstruction of breathing caused by a blockage in the respiratory tract. Diabetes, hypergl..."
+        },
+        {
+          "source": "data/Raw_data\\firstaid.json",
+          "page": null,
+          "chunk_id": "firstaid_p0_0_2",
+          "preview": "first aid'), including training for soldiers in the Franco-Prussian War on care for wounded comrades using pre-learnt bandaging and splinting skills, and making use of the Esmarch bandage which he designed. [ 4 ] The bandage was issued as standard to the Prussian combatants, and also included aide-memoire pictures showing common uses. In 1872, the Order of Saint John of Jerusalem in England change..."
+        },
+        {
+          "source": "data/Raw_data\\firstaid.json",
+          "page": null,
+          "chunk_id": "firstaid_p0_1_0",
+          "preview": "First aid is assistance given to any person suffering a sudden illness or injury. It may also refer to: First aid kit , supplies for giving first aid First aid room , a place where first aid is administered First aid blanket , a blanket which may be used to reduce heat loss in a patient's body Mental health first aid , help given to people with mental health problems Psychological first aid , a te..."
+        }
+      ],
+      "ts": "2025-09-25T09:42:26.372043Z"
+    },
+    {
+      "role": "user",
+      "content": "Is exercise good for managing stress",
+      "ts": "2025-09-25T09:42:54.564528Z"
+    },
+    {
+      "role": "assistant",
+      "content": "Exercise is indeed good for managing stress. Physical activity can influence both psychological and physical health, and moderate exercise is recommended as a way to distract from disturbing emotions, build self-esteem, and increase feelings of being in control. However, it is always important to consult with a doctor before starting an exercise program, especially if you have any underlying health conditions. Disclaimer: This information is for general knowledge and informational purposes only, and does not constitute medical advice. Please consult a qualified healthcare professional for any medical concerns.",
+      "sources": [
+        {
+          "source": "data/Raw_data\\food.pdf",
+          "page": 122,
+          "chunk_id": "food_p122_140_0",
+          "preview": "Annexure - 11\nExercise and Physical Activity\nAdults over the age of 20 years should undertake a minimum of 30-45 minutes of\nphysical activity of moderate intensity (such as brisk walking 5-6 km/hr) 5-6 days of the week.\nGreater health benefits can be obtained by engaging in physical activity of longer duration or\nmore vigorous intensity such as jogging, running, cycling and swimming.\nSedentary peo..."
+        },
+        {
+          "source": "data/Raw_data\\healthy_tips.json",
+          "page": null,
+          "chunk_id": "healthy_tips_p0_176_0",
+          "preview": "Steps for Losing Weight Key points If you want to lose weight, making a specific plan can help. Healthy weight loss includes a lifestyle with healthy eating patterns, regular physical activity, enough sleep, and stress management. The five steps on this page can help you get started. Overview A lifestyle with good nutrition, regular physical activity, stress management, and enough sleep supports a..."
+        },
+        {
+          "source": "data/Raw_data\\food.pdf",
+          "page": 69,
+          "chunk_id": "food_p69_87_0",
+          "preview": "POINTS TO PONDER\n/c63A minimum 30-45 minutes brisk walk/physical activity of moderate\nintensity improves overall health.\n/c63Include ‘warm-up’and ‘cool- down’ periods, before and after the exercise\nregimen.\n/c63Forty five minutes per day of moderate intensity physical activity\nprovides many health benefits.\nPeople with heart disease, high blood pressure, diabetes, asthma,\nosteoporosis and obesity ..."
+        },
+        {
+          "source": "data/Raw_data\\firstaid.json",
+          "page": null,
+          "chunk_id": "firstaid_p0_7_24",
+          "preview": " ] Other Physical activity can influence people's psychological [ 248 ] and physical health. [ 249 ] The U.S. National Center for PTSD recommends moderate exercise as a way to distract from disturbing emotions, build self-esteem and increase feelings of being in control again. They recommend a discussion with a doctor before starting an exercise program. [ 250 ] Play is thought to help children li..."
+        },
+        {
+          "source": "data/Raw_data\\healthy_tips.json",
+          "page": null,
+          "chunk_id": "healthy_tips_p0_176_1",
+          "preview": " consider how to make small changes. Physical activity: Include time of day, what activity you did, and duration in a physical activity diary . Sleep : Include the hours of sleep you get. The amount you need changes as you age. Stress: Include healthy ways you are reducing your stress . Other wellness factors you can track include how you are feeling when you eat and drink and are active, and life..."
+        }
+      ],
+      "ts": "2025-09-25T09:42:57.208725Z"
+    },
+    {
+      "role": "user",
+      "content": "Should I take antibiotics for a sore throat",
+      "ts": "2025-09-25T09:43:16.696131Z"
+    },
+    {
+      "role": "assistant",
+      "content": "I cannot provide personalized treatment recommendations. However, for a sore throat, it is important to rest, stay hydrated, and consider using over-the-counter pain relievers like acetaminophen or ibuprofen. If your symptoms persist or worsen, it is advisable to seek care from a qualified healthcare professional. Disclaimer: This information is for general knowledge and informational purposes only, and does not constitute medical advice. Please consult a qualified healthcare professional for any medical concerns.",
+      "sources": [
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_622_2",
+          "preview": " HTLV-1-associated myelopathy or tropical spastic paraparesis (HAM/TSP). Effective treatment is currently available for several STIs. Three bacterial STIs (chlamydia, gonorrhoea and syphilis) and one parasitic STI (trichomoniasis) are usually curable with existing, effective single-dose or multiple-dose regimens of antibiotics. For viral STIs (HIV, HSV and HTLV-1), the most effective medications a..."
+        },
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_732_2",
+          "preview": " rates in 76 countries of 42% for third-generation cephalosporin-resistant E. coli and 35% for methicillin-resistant Staphylococcus aureus are a major concern. For urinary tract infections caused by E. coli , 1 in 5 cases exhibited reduced susceptibility to standard antibiotics like ampicillin, co-trimoxazole, and fluoroquinolones in 2020. This is making it harder to effectively treat common infec..."
+        },
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_732_1",
+          "preview": "R) occurs when bacteria, viruses, fungi and parasites no longer respond to antimicrobial medicines. As a result of drug resistance, antibiotics and other antimicrobial medicines become ineffective and infections become difficult or impossible to treat, increasing the risk of disease spread, severe illness, disability and death. AMR is a natural process that happens over time through genetic change..."
+        },
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_600_1",
+          "preview": " is started prior to the lumbar puncture it may be difficult to grow the bacteria from the spinal fluid and confirm the diagnosis. However, confirmation of the diagnosis should not delay treatment. A range of antibiotics can treat the infection, including penicillin, ampicillin and ceftriaxone. Meningitis Global Health Observatory data on meningitis Immunization Defeating meningitis by 2030 Intern..."
+        },
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_732_0",
+          "preview": "Antimicrobial resistance Key facts Antimicrobial resistance (AMR) is one of the top global public health and development threats. It is estimated that bacterial AMR was directly responsible for 1.27 million global deaths in 2019 and contributed to 4.95 million deaths (1) . The misuse and overuse of antimicrobials in humans, animals and plants are the main drivers in the development of drug-resista..."
+        }
+      ],
+      "ts": "2025-09-25T09:43:19.194490Z"
+    },
+    {
+      "role": "user",
+      "content": "what is the weather today",
+      "ts": "2025-09-25T09:43:39.523216Z"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm unable to provide real-time weather information. For current weather conditions, please check a reliable weather website or app. Disclaimer: This information is for general knowledge and informational purposes only, and does not constitute medical advice. Please consult a qualified healthcare professional for any medical concerns.",
+      "sources": [
+        {
+          "source": "data/Raw_data\\firstaid.json",
+          "page": null,
+          "chunk_id": "firstaid_p0_8_13",
+          "preview": "40 °F) with severe wind chills . [ 128 ] In non-coastal regions, snow can cover the ground for almost six months of the year, while in parts of the north snow can persist year-round. Coastal British Columbia has a temperate climate, with a mild and rainy winter. On the east and west coasts, average high temperatures are generally in the low 20s °C (70s °F), while between the coasts, the average su..."
+        },
+        {
+          "source": "data/Raw_data\\firstaid.json",
+          "page": null,
+          "chunk_id": "firstaid_p0_8_58",
+          "preview": "ford, Robert William (2012). Cold Matters: The State and Fate of Canada's Fresh Water . Biogeoscience Institute at the University of Calgary. p. 11. ISBN 978-1-927330-20-3 . ^ Etkin, David; Haque, CE; Brooks, Gregory R (April 30, 2003). An Assessment of Natural Hazards and Disasters in Canada . Springer . pp. 569, 582, 583. ISBN 978-1-4020-1179-5 . ^ \"Statistics, Regina SK\" . The Weather Network ...."
+        },
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_553_0",
+          "preview": "Over the last 50 years, human activities have released sufficient quantities of carbon dioxide and other greenhouse gases to affect the global climate. The resulting changes in the global climate bring a range of risks to health, from deaths in extreme high temperatures to changing patterns of infectious diseases. Climate and weather variables pose threats to food and water security, and cause out..."
+        },
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_666_0",
+          "preview": "Overview"
+        },
+        {
+          "source": "data/Raw_data\\who_data.json",
+          "page": null,
+          "chunk_id": "who_data_p0_667_0",
+          "preview": "Overview"
+        }
+      ],
+      "ts": "2025-09-25T09:43:42.047679Z"
+    }
+  ]
+}
